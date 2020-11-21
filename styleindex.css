@@ -1,0 +1,45 @@
+.jumbotron{
+	background-image: url('https://blog.schoters.com/wp-content/uploads/2018/12/Utrecht-University-1080x675.jpg');
+	background-size: cover;
+	font-style: Oblique;
+	font-family:Arial;
+	height: 675px;
+}
+.jumbotron .display-4{
+	margin-top: -20px;
+	margin-left: -0px;
+	color: #fff;
+	font-size: 48px;
+	font-weight: bold;
+	-webkit-text-stroke: 0.02em #000;
+}
+.jumbotron .lead{
+	margin-top: -50px;
+	margin-left: -0px;
+	font-size:35;
+	color: #fff;
+	font-weight: bold;
+	-webkit-text-stroke: 0.02em #000;
+}
+.jumbotron hr{
+	margin-top: -300px;
+	margin-left: -0px;
+	width: 600px;
+	color: #fff;
+	-webkit-text-stroke: 0.02em #000;
+}
+.testimonial{
+	background-color: #cce5ff;
+}
+footer{
+	margin-top: 5px;
+	padding: 30px 0;
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+}
+@keyframes muter-muter{
+	100%{
+		transform: rotate(360deg); 
+	}
+}
